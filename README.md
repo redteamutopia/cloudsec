@@ -24,7 +24,7 @@ https://dev.to/jevason90/getting-into-azure-with-terraform-264b
 ##### Azure Policies With Terraform
 https://www.youtube.com/watch?v=P5HElJxJdbk
 
-# Cloud Security - IAM Concepts (Federation, SSO, SAML, etc.)
+# Cloud Security - IAM Concepts
 
 ##### Why is IAM Important?
 https://www.ibm.com/topics/identity-access-management
