@@ -18,6 +18,14 @@ https://techcommunity.microsoft.com/t5/azure-sentinel/understanding-api-connecti
 ##### Securing Your Application by Using OpenID Connect and Azure AD
 https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/
 
+##### End to End Cloud Security Automation with Terraform
+https://www.youtube.com/watch?v=WXhOW0gvlTU
+
+##### Getting Into Azure with Terraform
+https://dev.to/jevason90/getting-into-azure-with-terraform-264b
+
+
+
 
 
 
