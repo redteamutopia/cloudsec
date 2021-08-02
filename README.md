@@ -47,5 +47,5 @@ https://jumpcloud.com/blog/aws-iam-vs-aws-sso
 https://www.youtube.com/watch?v=d6EOEXxMZ8w
 
 
-
+![SAML SSO Diagram](https://user-images.githubusercontent.com/87448126/127930799-f7f85c4d-89ee-4db4-b661-a5dd623beb14.png)
 
