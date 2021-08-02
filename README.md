@@ -1,4 +1,4 @@
-# Cloud Security Tools, Scripts, Study, etc.
+# Cloud Security - Programmability
 
 ##### Security Center Terraform Module
 https://github.com/kumarvna/terraform-azurerm-security-center
@@ -15,20 +15,28 @@ https://medium.com/marcus-tee-anytime/azure-active-directory-security-group-auto
 ##### Understanding API connections for your Azure Sentinel Playbooks
 https://techcommunity.microsoft.com/t5/azure-sentinel/understanding-api-connections-for-your-azure-sentinel-playbooks/ba-p/2593973
 
-##### Securing Your Application by Using OpenID Connect and Azure AD
-https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/
-
 ##### End to End Cloud Security Automation With Terraform
 https://www.youtube.com/watch?v=WXhOW0gvlTU
 
 ##### Getting Into Azure With Terraform
 https://dev.to/jevason90/getting-into-azure-with-terraform-264b
 
+##### Azure Policies With Terraform
+https://www.youtube.com/watch?v=P5HElJxJdbk
+
+# Cloud Security - IAM Concepts (Federation, SSO, SAML, etc.)
+
+##### Why is IAM Important
+https://www.ibm.com/topics/identity-access-management
+
+##### Securing Your Application by Using OpenID Connect and Azure AD
+https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/
+
+# Cloud Network Infrastructure Concepts
+
 ##### Building Azure Infrastructure With Terraform
 https://www.youtube.com/watch?v=d6EOEXxMZ8w
 
-##### Azure Policies With Terraform
-https://www.youtube.com/watch?v=P5HElJxJdbk
 
 
 
