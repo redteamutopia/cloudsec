@@ -26,11 +26,20 @@ https://www.youtube.com/watch?v=P5HElJxJdbk
 
 # Cloud Security - IAM Concepts (Federation, SSO, SAML, etc.)
 
-##### Why is IAM Important
+##### Why is IAM Important?
 https://www.ibm.com/topics/identity-access-management
+
+##### AWS SSO vs RBAC IAM Access
+https://hackernoon.com/an-introduction-to-aws-sso-vs-cross-account-role-based-iam-access-60263zc1
 
 ##### Securing Your Application by Using OpenID Connect and Azure AD
 https://docs.microsoft.com/en-us/learn/modules/secure-app-with-oidc-and-azure-ad/
+
+##### Authentication vs. Federation vs. SSO
+https://medium.com/@robert.broeckelmann/authentication-vs-federation-vs-sso-9586b06b1380
+
+##### AWS IAM vs AWS SSO
+https://jumpcloud.com/blog/aws-iam-vs-aws-sso
 
 # Cloud Network Infrastructure Concepts
 
