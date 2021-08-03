@@ -41,7 +41,7 @@ https://medium.com/@robert.broeckelmann/authentication-vs-federation-vs-sso-9586
 ##### AWS IAM vs AWS SSO
 https://jumpcloud.com/blog/aws-iam-vs-aws-sso
 
-##### Topology Examples:
+### Topology Examples:
 
 ![SAML SSO Diagram](https://user-images.githubusercontent.com/87448126/127930799-f7f85c4d-89ee-4db4-b661-a5dd623beb14.png)
 
