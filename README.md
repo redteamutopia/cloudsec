@@ -44,6 +44,7 @@ https://jumpcloud.com/blog/aws-iam-vs-aws-sso
 ### Topology Examples:
 
 ![SAML SSO Diagram](https://user-images.githubusercontent.com/87448126/127930799-f7f85c4d-89ee-4db4-b661-a5dd623beb14.png)
+
 ![azure](https://user-images.githubusercontent.com/87448126/127947311-a0280959-4fd9-4039-ba3f-bde9804741cb.png)
 
 
