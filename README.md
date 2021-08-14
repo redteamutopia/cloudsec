@@ -34,6 +34,7 @@ https://github.com/PaloAltoNetworks/terraform-templates
 https://github.com/PaloAltoNetworks/pan-os-python
 
 ##### Palo Alto Cloud Integration
+https://live.paloaltonetworks.com/t5/cloud-integration/ct-p/Cloud_Templates
 
 # Cloud Security - IAM Concepts
 
