@@ -24,6 +24,17 @@ https://dev.to/jevason90/getting-into-azure-with-terraform-264b
 ##### Azure Policies With Terraform
 https://www.youtube.com/watch?v=P5HElJxJdbk
 
+##### Palo Alto Terraform Templates
+https://github.com/PaloAltoNetworks/terraform-templates
+
+##### Palo Alto Terraform Templates
+https://github.com/PaloAltoNetworks/terraform-templates
+
+##### Pan-OS Python
+https://github.com/PaloAltoNetworks/pan-os-python
+
+##### Palo Alto Cloud Integration
+
 # Cloud Security - IAM Concepts
 
 ##### Why is IAM Important?
