@@ -45,6 +45,48 @@ S3 List Buckets | ```aws s3 ls```
 S3 List Bucket Files | ```aws s3 ls s3://bucketname-01```
 
 
+
+# CloudTrail Logging & Auditing
+##### list all trails
+aws cloudtrail describe-trails
+
+##### list all S3 buckets
+aws s3 ls
+
+##### create a new trail
+aws cloudtrail create-subscription \
+    --name awslog \
+    --s3-new-bucket awslog2016
+
+##### list the names of all trails
+aws cloudtrail describe-trails --output text | cut -f 8
+
+##### get the status of a trail
+aws cloudtrail get-trail-status \
+    --name awslog
+
+##### delete a trail
+aws cloudtrail delete-trail \
+    --name awslog
+
+##### delete the S3 bucket of a trail
+aws s3 rb s3://awslog2016 --force
+
+##### add tags to a trail, up to 10 tags
+aws cloudtrail add-tags \
+    --resource-id awslog \
+    --tags-list "Key=log-type,Value=all"
+
+##### list the tags of a trail
+aws cloudtrail list-tags \
+    --resource-id-list 
+
+##### remove a tag from a trail
+aws cloudtrail remove-tags \
+    --resource-id awslog \
+    --tags-list "Key=log-type,Value=all"
+
+
 # Cloud Security - IAM Concepts
 
 ##### Why is IAM Important?
