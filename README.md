@@ -37,6 +37,11 @@ https://github.com/PaloAltoNetworks/pan-os-python
 https://live.paloaltonetworks.com/t5/cloud-integration/ct-p/Cloud_Templates
 
 # Cloud Security - AWS CLI
+AWS CLI Command | Syntax 
+------------ | -------------
+Debian Package Install | ```apt install packagename```
+Debian Package Removal | ```apt remove packagename```
+Debian Package Purge | ```apt purge packagename```
 
 
 # Cloud Security - IAM Concepts
