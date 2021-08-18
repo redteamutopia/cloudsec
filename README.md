@@ -39,9 +39,10 @@ https://live.paloaltonetworks.com/t5/cloud-integration/ct-p/Cloud_Templates
 # Cloud Security - AWS CLI
 AWS CLI Command | Syntax 
 ------------ | -------------
-Debian Package Install | ```apt install packagename```
-Debian Package Removal | ```apt remove packagename```
-Debian Package Purge | ```apt purge packagename```
+S3 Bucket Creation | ```aws s3 mb s3://bucketname-01```
+S3 Delete Bucket | ```aws s3 rb s3://bucketname-01 --force```
+S3 List Buckets | ```aws s3 ls```
+S3 List Bucket Files | ```aws s3 ls s3://bucketname-01```
 
 
 # Cloud Security - IAM Concepts
