@@ -36,6 +36,9 @@ https://github.com/PaloAltoNetworks/pan-os-python
 ##### Palo Alto Cloud Integration
 https://live.paloaltonetworks.com/t5/cloud-integration/ct-p/Cloud_Templates
 
+# Cloud Security - AWS CLI
+
+
 # Cloud Security - IAM Concepts
 
 ##### Why is IAM Important?
